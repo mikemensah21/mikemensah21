@@ -48,6 +48,7 @@ Seeking an entry-level cybersecurity analyst position where I can apply my skill
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
 </div>
 
 ## Projects
