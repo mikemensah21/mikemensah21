@@ -1,7 +1,7 @@
 # Hello, I'm Michael Mensah
 <a href="https://www.linkedin.com/in/michael-mensah-m-s-5b58a2b5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast with a passion for cloud technologies. I've honed my skills through hands-on projects and lab simulations, gaining practical experience in threat detection, incident response, and security analysis. Eager to contribute my knowledge/expertise and dedication to a dynamic cybersecurity team.
+Cybersecurity professional with a passion for cloud technologies. I've honed my skills through hands-on projects and lab simulations, gaining practical experience in threat detection, incident response, and security analysis. Eager to contribute my knowledge/expertise and dedication to a dynamic cybersecurity team.
 
 ## Objective
 
@@ -11,13 +11,10 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| SIEM Implementation and Log Analysis          |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20Splunk%20Instance.md">SIEM Lab</a>||
+| Identity Access Management                    | Security with AWS: Identity and Access Management (IAM)|
+| Network Traffic Monitoring and Attack Detection | Wireshark for Beginners: Capture Packets|
+| Security Operations Management | SOC Level 1 - Try Hack Me |
 ## Tools
 
 ### Network
@@ -52,5 +49,8 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Level 1 - Try Hack Me 
+- AWS Lightsail Splunk Lab
+- Security with AWS: Identity and Access Management (IAM)
+- Wireshark for Beginners: Capture Packets
+- Google Cybersecurity Professional 
