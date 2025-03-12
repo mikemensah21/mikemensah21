@@ -1,7 +1,7 @@
 # Hello, I'm Michael Mensah
 <a href="https://www.linkedin.com/in/michael-mensah-m-s-5b58a2b5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast with a passion for cloud technologies. I've honed my skills through hands-on projects and lab simulations, gaining practical experience in threat detection, incident response, and security analysis. Eager to contribute my knowledge and dedication to a dynamic cybersecurity team.
+Cybersecurity enthusiast with a passion for cloud technologies. I've honed my skills through hands-on projects and lab simulations, gaining practical experience in threat detection, incident response, and security analysis. Eager to contribute my knowledge/expertise and dedication to a dynamic cybersecurity team.
 
 ## Objective
 
