@@ -50,7 +50,7 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 
 ## Projects
 - SOC Level 1 - Try Hack Me 
-- AWS Lightsail Splunk Lab
+- AWS Splunk Instance
 - Security with AWS: Identity and Access Management (IAM)
 - Wireshark for Beginners: Capture Packets
 - Google Cybersecurity Professional 
