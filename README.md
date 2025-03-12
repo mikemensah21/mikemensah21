@@ -5,7 +5,7 @@ Cybersecurity enthusiast with a passion for cloud technologies. I've honed my sk
 
 ## Objective
 
-Seeking an entry-level cybersecurity analyst position where I can apply my skills and passion to protect critical systems and data. I'm particularly interested in roles involving cloud security and incident response. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I'm a fast learner, a team player, and eager to contribute to a company's overall security posture. 
+Seeking a cybersecurity analyst position where I can apply my skills and passion to protect critical systems and data. I'm particularly interested in roles involving cloud security and incident response. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I'm a fast learner, a proven team player, and eager to contribute to a company's overall security posture. 
 
 ## Skills
 
