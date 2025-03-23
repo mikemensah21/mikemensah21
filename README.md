@@ -15,6 +15,7 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 | Identity Access Management                    |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20IAM%20Lab.md">AWS IAM Lab</a>||
 | Foundations of Cybersecurity |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/Google%20Cybersecurity%20Professional%20Certificate.md">Google Cybersecurity Certificate</a>|
 | Security Operations Management | <a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/TryHackMe%20SOC%20Level%201.md">SOC Level 1 - Try Hack Me</a>|
+| Cloud Architecture | <a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20Lightsail%20Instance%20Setup%20Lab.md">AWS Lightsail Linux 2 Instance Setup Lab</a>|
 ## Tools
 
 ### Network
@@ -49,8 +50,11 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 </div>
 
 ## Projects
-- SOC Level 1 - Try Hack Me 
-- AWS Splunk Instance
-- Security with AWS: Identity and Access Management (IAM)
-- Wireshark for Beginners: Capture Packets
-- Google Cybersecurity Professional 
+- Google Cybersecurity Professional
+- SOC Level 1 - Try Hack Me
+- AWS IAM Lab
+- AWS Lightsail Instance Setup Lab
+- Splunk ES - AWS Lightsail Deployment Lab
+- Connect and Protect: Networks and Network Security
+
+
