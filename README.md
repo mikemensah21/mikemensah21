@@ -13,8 +13,8 @@ Seeking a cybersecurity analyst position where I can apply my skills and passion
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20Splunk%20Instance.md">Splunk ES AWS Lightsail Deployment Lab</a>||
 | Identity Access Management                    |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20IAM%20Lab.md">AWS IAM Lab</a>||
-| Foundations of Cybersecurity |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/AWS%20IAM%20Lab.md">Google Cybersecurity Certificate</a>|
-| Security Operations Management | SOC Level 1 - Try Hack Me |
+| Foundations of Cybersecurity |<a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/Google%20Cybersecurity%20Professional%20Certificate.md">Google Cybersecurity Certificate</a>|
+| Security Operations Management | <a href="https://github.com/mikemensah21/Cybersecurity-Portfolio/blob/main/TryHackMe%20SOC%20Level%201.md">SOC Level 1 - Try Hack Me</a>|
 ## Tools
 
 ### Network
